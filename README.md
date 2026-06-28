@@ -22,3 +22,8 @@ Estudiante de 5to año de Ingeniería de Sistemas en la **Universidad de El Salv
 
 ---
 *En constante aprendizaje y siempre abierto a colaborar en nuevos proyectos.*
+
+---
+### 📊 Mis Estadísticas en GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marvin290900&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
