@@ -25,7 +25,7 @@ Estudiante de 5to año de Ingeniería de Sistemas en la **Universidad de El Salv
 
 ---
 ### 📊 Mis Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marvin290900&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub stats](https://tu-proyecto.vercel.app/api?username=marvin290900&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ### 💻 Lenguajes principales
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvin290900&layout=compact&theme=radical)
+![Top Langs](https://tu-proyecto.vercel.app/api/top-langs/?username=marvin290900&layout=compact&theme=radical)
